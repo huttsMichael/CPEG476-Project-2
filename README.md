@@ -1,3 +1,5 @@
 # CPEG476 Project 2
+## Description
+This is 16 remixes of questions from the 2020 Sunshine CTF as an assignment for CPEG476 - Secure Software (via x86 Exploitation)
 ## Reflection
-TODO
+The "time to kill" of each problem on this project really sped up as I worked through the problems. I was honestly expecting the opposite which made me a bit demotivated at the start as I struggled with problems I assumed would be the easiest material. Once I had the baseline skills to do the first five~, the rest was almost a breeze in comparison. There were a few problems that were a massive pain, but honestly some of the problems I anticipated being the most difficult turned out to be the simplest. Overall I feel more confident in the process, but I still feel like I'm dependent on some handholding to tackle more complex and open problems. 
